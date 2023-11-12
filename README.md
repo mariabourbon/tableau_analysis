@@ -1,6 +1,8 @@
 # tableau_analysis
 Airline Passenger Satisfaction Analysis Dashboard | Tableau Public 
 
+Link: https://public.tableau.com/app/profile/maria.bourbon/viz/AirlinePassengerSatisfactionAnalysis_16997865951440/Painel1?publish=yes
+
 Introduction:
 
 Welcome to the "Airline Passenger Satisfaction Analysis" dashboard. This comprehensive analysis is based on a dataset containing valuable insights from an airline passenger satisfaction survey, aimed at assisting an airline company in upgrading and improving their business. The dashboard provides a detailed understanding of customer demographics, loyalty, satisfaction, and travel-related experiences.
